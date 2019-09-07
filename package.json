@@ -1,0 +1,21 @@
+{
+  "name": "creativia-free-psd-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OKTAV",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^4.1.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-less": "^4.0.1",
+    "smart-grid": "^2.1.2",
+    "webpack-stream": "^5.2.1"
+  },
+  "dependencies": {}
+}
